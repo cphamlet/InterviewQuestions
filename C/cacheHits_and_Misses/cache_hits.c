@@ -1,5 +1,5 @@
 /*
-Auther: Connor Hamlet. 
+Author: Connor Hamlet. 
 
 	gcc name.c -o name -fopenmp -O3
 
